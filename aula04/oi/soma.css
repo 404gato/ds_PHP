@@ -1,0 +1,12 @@
+.par{
+    color: white;
+    background-color: rgb(250, 161, 128);
+    text-align: center;
+    padding: 15px;
+}
+
+.impar{
+    color: rgb(250, 161, 128);
+    background-color: white;
+    text-align: center;
+}
